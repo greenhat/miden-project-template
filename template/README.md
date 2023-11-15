@@ -13,5 +13,5 @@ for more details.
 To build this project, run:
 
 ```bash
-cargo miden compile -o {{crate_name}}.masm
+cargo miden compile -o ./target/{{crate_name}}.masm
 ```
