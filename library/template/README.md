@@ -4,7 +4,7 @@
 
 `{{crate_name}}` is built using the [Miden compiler](https://github.com/0xPolygonMiden/compiler).  
 
-`cargo miden` is a `cargo` cargo extension server. Check out its [documentation](https://github.com/0xPolygonMiden/compiler/cargo-ext)
+`cargo miden` is a `cargo` cargo extension. Check out its [documentation](https://github.com/0xPolygonMiden/compiler/cargo-ext)
 for more details.
 
 
