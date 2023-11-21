@@ -1,11 +1,23 @@
-# Miden project starter template
+# Miden project starter templates
 
-This repository contains the official starter template for a new [Miden](https://github.com/0xPolygonMiden/compiler/cargo-ext) project.  
+This repository contains the official starter project templates for a [Miden cargo extension](https://github.com/0xPolygonMiden/compiler/cargo-ext) `new` command.  
+
+## Pre-requisites
+
+Install cargo extension:
+
+```bash
+cargo install cargo-miden
+```
+
+## Usage
+
+### Create a new project
 
 Run
 
 ```bash
-cargo miden new my-account
+cargo miden new [project-name]
 ```
 
-to create a new project based on this template.
+to create a new project based on the default template.
